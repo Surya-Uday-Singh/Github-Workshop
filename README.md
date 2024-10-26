@@ -49,7 +49,7 @@ File -> Clone Repository and search up name of repository (Github-Workshop or th
 
 ### Pulling
 
-- [ ] Check this in github
+- [] Check this in github mmnmnmnm
 
 * Go to github and press edit on the readme.md
 * Check the checkbox above
